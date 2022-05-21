@@ -22,6 +22,15 @@ Step 5: Design layout using AutoComplete TextView in activity_main.xml.
 Step 6: Display screen of search engine in MainActivity file.
 
 Step 7: Save and run the application.
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ## PROGRAM:
 
 /*
@@ -70,6 +79,9 @@ Registeration Number : 212220230027
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+<br></br>
+<br></br>
+
 
 ### main activity.java
 
@@ -108,6 +120,10 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ## Output:
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/75235334/169633959-1b96e06c-fec6-43e9-bbbf-4a91d9840925.png)
