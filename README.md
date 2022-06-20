@@ -1,4 +1,7 @@
-# Ex.No:6 Build a program to create a first display screen of any search engine using Auto Complete Text View.
+### Ex.No:06 
+### DATE: 
+# <p align="center">Build a program to create a first display screen of any search engine using Auto Complete Text View.
+</p>
 ## AIM:
 
 To develop a program to create a first display screen of any search engine using AutoComplete TextView in Android Studio.
@@ -23,10 +26,7 @@ Step 6: Display screen of search engine in MainActivity file.
 
 Step 7: Save and run the application.
 
-<br></br>
-<br></br>
-<br></br>
-<br></br>
+
 <br></br>
 <br></br>
 <br></br>
@@ -120,8 +120,7 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
-<br></br>
-<br></br>
+
 <br></br>
 <br></br>
 ## Output:
